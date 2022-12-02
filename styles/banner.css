@@ -28,7 +28,7 @@
 
 .banner__pesquisa::placeholder {
     font-family: var(--fonte-principal);
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 400;
     text-align: center;
     padding: 10px 24px 10px 45px;
