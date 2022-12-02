@@ -29,7 +29,7 @@
 }
 
 .container__imagem {
-    padding: 1em;
+    padding: 0.5em 0.7em;
 }
 
 .lista-menu {
@@ -45,7 +45,7 @@
 
 .lista-menu__titulo,
 .lista-menu__item {
-    padding: 1em;
+    padding: 0.5em;
     background-color: var(--branco);
 }
 
